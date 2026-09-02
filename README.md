@@ -33,7 +33,6 @@ You need:
 
 Any Video Converter is optional and is only needed if you want to use the copied links with it.
 
-## 📥 Installation
 
 ## 📥 Quick Install
 
