@@ -35,17 +35,31 @@ Any Video Converter is optional and is only needed if you want to use the copied
 
 ## 📥 Installation
 
-### Step 1 — Install Tampermonkey
+## 📥 Quick Install
 
-Install the Tampermonkey browser extension for your supported browser.
+### Install with Tampermonkey
 
-### Step 2 — Install Ajay AVC Helper
+If Tampermonkey is already installed:
 
-Open the `Ajay-AVC-Helper.user.js` file from this repository.
+**👉 [Install Ajay AVC Helper](https://github.com/abcdeg9627-art/Ajay-AVC-Helper/raw/refs/heads/main/Ajay-AVC-Helper.user.js)**
 
-Tampermonkey should recognize the userscript and provide an option to install it.
+After opening the link, Tampermonkey should display the installation page.
 
-Confirm the installation.
+Click **Install**.
+
+That's it. Ajay AVC Helper is ready to use.
+
+---
+
+### Manual Installation
+
+If the automatic installation page does not appear:
+
+1. Open the `Ajay-AVC-Helper.user.js` file in this repository.
+2. Click **Raw**.
+3. Tampermonkey should open the installation page.
+4. Click **Install**.
+
 
 ## ▶️ How to Use
 
