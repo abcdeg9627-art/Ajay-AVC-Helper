@@ -34,21 +34,65 @@ You need:
 Any Video Converter is optional and is only needed if you want to use the copied links with it.
 
 
-## 📥 Quick Install
+## 📥 Installation
 
-### Install with Tampermonkey
+### 🚀 Quick Install
 
-If Tampermonkey is already installed:
+The easiest way to install Ajay AVC Helper is through Tampermonkey.
 
-**👉 [Install Ajay AVC Helper](https://github.com/abcdeg9627-art/Ajay-AVC-Helper/raw/refs/heads/main/Ajay-AVC-Helper.user.js)**
+**👉 [Install Ajay AVC Helper](https://raw.githubusercontent.com/abcdeg9627-art/Ajay-AVC-Helper/refs/heads/main/Ajay-AVC-Helper.user.js)**
 
-After opening the link, Tampermonkey should display the installation page.
+After opening the link:
 
-Click **Install**.
+1. Tampermonkey will open the script installation page.
+2. Review the script name: **Ajay AVC Helper**
+3. Click **Install**.
+4. Open a HindiGeetMala movie page.
+5. The **📋 Copy Song Links** button will appear.
 
-That's it. Ajay AVC Helper is ready to use.
+That's it! 🎉
 
----
+### 🧩 Requirements
+
+* A desktop browser such as Firefox or Chrome
+* Tampermonkey browser extension
+* Internet connection to access HindiGeetMala
+
+### 🔧 Manual Installation
+
+If the Quick Install link does not open the Tampermonkey installation page:
+
+1. Open the `Ajay-AVC-Helper.user.js` file in this repository.
+2. Click **Raw**.
+3. Copy the complete script URL.
+4. Open Tampermonkey Dashboard.
+5. Go to **Utilities → Install from URL**.
+6. Paste the script URL.
+7. Click **Install**.
+
+## ▶️ How to Use
+
+1. Open any HindiGeetMala movie page.
+2. Look at the top-right corner.
+3. Click **📋 Copy Song Links**.
+4. Ajay AVC Helper finds all song-page links.
+5. The links are copied to your clipboard.
+6. Paste the links into Any Video Converter.
+
+### 💡 Simple Workflow
+
+**HindiGeetMala Movie Page**
+↓
+**📋 Copy Song Links**
+↓
+**Clipboard**
+↓
+**Any Video Converter**
+↓
+**Download**
+
+No complicated setup. No manual copying of every song link.
+
 
 ### Manual Installation
 
