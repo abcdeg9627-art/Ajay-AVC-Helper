@@ -31,55 +31,69 @@ You need:
 2. Tampermonkey
 3. A HindiGeetMala movie page
 
-Any Video Converter is optional and is only needed if you want to use the copied links with it.
+**Any Video Converter is optional** and is only needed if you want to use the copied links with it.
 
+---
 
 ## 📥 Installation
 
-### 🚀 Quick Install
+### Step 1 — Install Tampermonkey
 
-The easiest way to install Ajay AVC Helper is through Tampermonkey.
+First, install **Tampermonkey** for your desktop browser.
 
-**👉 [Install Ajay AVC Helper](https://raw.githubusercontent.com/abcdeg9627-art/Ajay-AVC-Helper/refs/heads/main/Ajay-AVC-Helper.user.js)**
+**Firefox:**
+👉 [Install Tampermonkey for Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
 
-After opening the link:
+**Chrome / Other Supported Browsers:**
+👉 [Visit the official Tampermonkey website](https://www.tampermonkey.net/)
 
-1. Tampermonkey will open the script installation page.
-2. Review the script name: **Ajay AVC Helper**
-3. Click **Install**.
-4. Open a HindiGeetMala movie page.
-5. The **📋 Copy Song Links** button will appear.
+After installing Tampermonkey, continue to Step 2.
 
-That's it! 🎉
+---
 
-### 🧩 Requirements
+### Step 2 — Install Ajay AVC Helper
 
-* A desktop browser such as Firefox or Chrome
-* Tampermonkey browser extension
-* Internet connection to access HindiGeetMala
+Click the button below:
 
-### 🔧 Manual Installation
+### 👉 [📋 Install Ajay AVC Helper](https://raw.githubusercontent.com/abcdeg9627-art/Ajay-AVC-Helper/refs/heads/main/Ajay-AVC-Helper.user.js)
 
-If the Quick Install link does not open the Tampermonkey installation page:
+Tampermonkey should open the script installation page.
 
-1. Open the `Ajay-AVC-Helper.user.js` file in this repository.
-2. Click **Raw**.
-3. Copy the complete script URL.
-4. Open Tampermonkey Dashboard.
-5. Go to **Utilities → Install from URL**.
-6. Paste the script URL.
-7. Click **Install**.
+Then:
+
+1. Check that the script name is **Ajay AVC Helper**
+2. Click **Install**
+3. Open a HindiGeetMala movie page
+4. The **📋 Copy Song Links** button will appear
+
+**That's it! 🎉**
+
+---
+
+### 🔧 If the Install Page Does Not Appear
+
+If clicking the installation link does not open the Tampermonkey installation page:
+
+1. Open the **Tampermonkey Dashboard**
+2. Go to **Utilities**
+3. Find **Install from URL**
+4. Paste the Ajay AVC Helper script URL
+5. Click **Install**
+
+---
 
 ## ▶️ How to Use
 
 1. Open any HindiGeetMala movie page.
-2. Look at the top-right corner.
+2. Look at the top-right corner of the page.
 3. Click **📋 Copy Song Links**.
-4. Ajay AVC Helper finds all song-page links.
-5. The links are copied to your clipboard.
-6. Paste the links into Any Video Converter.
+4. The helper finds the available song-page links.
+5. All links are copied to your clipboard.
+6. Paste the copied links into **Any Video Converter**.
 
-### 💡 Simple Workflow
+That's it. 🎉
+
+## 💡 Simple Workflow
 
 **HindiGeetMala Movie Page**
 ↓
@@ -91,36 +105,10 @@ If the Quick Install link does not open the Tampermonkey installation page:
 ↓
 **Download**
 
-No complicated setup. No manual copying of every song link.
+No complicated setup.
+No manual copying of every song link.
 
-
-### Manual Installation
-
-If the automatic installation page does not appear:
-
-1. Open the `Ajay-AVC-Helper.user.js` file in this repository.
-2. Click **Raw**.
-3. Tampermonkey should open the installation page.
-4. Click **Install**.
-
-
-## ▶️ How to Use
-
-1. Open a HindiGeetMala movie page.
-
-2. Look at the top-right corner of the page.
-
-3. Click:
-
-   **📋 Copy Song Links**
-
-4. The helper will find the song links on the page.
-
-5. The links will be copied to your clipboard.
-
-6. Open Any Video Converter and use the copied links.
-
-That's it.
+---
 
 ## 💡 Why was it created?
 
@@ -130,7 +118,7 @@ Copying many song links individually takes unnecessary time.
 
 Ajay AVC Helper was created to simplify that repetitive task.
 
-> Technology should save people's time—not waste it.
+> **Technology should save people's time—not waste it.**
 
 ## 👨‍💻 Project
 
